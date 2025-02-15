@@ -4,4 +4,4 @@ Repository untuk belajar membuat branch
 Membuat branch baru 'development'
 --
 - Latihan Merge Conflict
-- Membuat baru kolaborator
+- Membuat baru kolaborator V2.0
