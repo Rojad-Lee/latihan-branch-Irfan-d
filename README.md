@@ -8,4 +8,4 @@ Repository untuk belajar membuat branch
 - Membuat Branch baru 'update-readme'
 - Latihan Squashing Changes
 - Praktek Squashing Changes
-- Latihan Code Reviews 2
+- Latihan Code Reviews 3
