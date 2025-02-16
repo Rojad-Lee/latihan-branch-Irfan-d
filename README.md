@@ -7,5 +7,5 @@ Repository untuk belajar membuat branch
 - Latihan Kolaborator (me & me)
 - Membuat Branch baru 'update-readme'
 - Latihan Squashing Changes
-- Praktek Squashing Changes
-- Latihan Code Reviews 3
+- Praktek Squashing Changes<br>
+- Latihan Code Reviews 3<br>
